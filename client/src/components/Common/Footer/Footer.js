@@ -96,9 +96,7 @@ export default function Footer() {
                 <li>
                   <a target='_blank' href='https://iitism.irins.org/profile/97522' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Professors</a>
                 </li>
-                <li>
-                  <a target='_blank' href='https://gic.SESE.edu.in/index.html' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Google Innovation Centre</a>
-                </li>
+               
 
               </nav>
             </div>
