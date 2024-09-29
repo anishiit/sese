@@ -44,26 +44,12 @@ export default function Footer() {
 
             {/* Downloads */}
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">B. Tech Syllabus</h2>
+              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3"> Syllabus</h2>
               <nav className="list-none mb-10">
                 <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/CSBS20.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; CSBS</a>
+                  <a target='_blank' href='https://people.iitism.ac.in/~academics/assets/course_structure/new/cat/ese/ese.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Syllabus</a>
                 </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/CSE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; CSE</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/ECE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; ECE</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/EE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; EE</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/EEE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; EEE</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/ME.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; ME</a>
-                </li>
+              
               </nav>
             </div>
             {/* Admission Enquiry */}
