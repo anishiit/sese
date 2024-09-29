@@ -33,7 +33,7 @@ function NavLinks() {
       title: "Academics",
       links: [
         {
-          title: "Departments",
+          title: "Labs",
           path: "/academics/departments",
         },
         {
@@ -42,7 +42,7 @@ function NavLinks() {
         },
         {
           title: "Professors",
-          path: "https://iitism.irins.org/profile/97522",
+          path: "https://iitism.irins.org/faculty/index/Department+of+Environmental+Science+and+Engineering",
         },
       ]
     },
