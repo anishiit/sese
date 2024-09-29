@@ -94,7 +94,7 @@ export default function Footer() {
                   <a target='_blank' href='https://www.youtube.com/channel/UC1lroAhlIz6Reni_I2dpaHA' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; YouTube</a>
                 </li>
                 <li>
-                  <a target='_blank' href='http://182.74.215.198/moodle/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Moodle Portal Login</a>
+                  <a target='_blank' href='https://iitism.irins.org/profile/97522' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Professors</a>
                 </li>
                 <li>
                   <a target='_blank' href='https://gic.SESE.edu.in/index.html' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Google Innovation Centre</a>
@@ -106,12 +106,12 @@ export default function Footer() {
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
               <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Address</h2>
 
-              <p className="text-white hover:text-gray-300 cursor-pointer">Grand Tank Road,</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">Adisaptagram,</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">Adecconagar , Bandel</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">Hoogly , 721212</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">academy.of.technology@SESE.edu.in</p>
-              <h4 className="text-white hover:text-gray-300 cursor-pointer">+91 9883464589</h4>
+              <p className="text-white hover:text-gray-300 cursor-pointer">shop no. 4,</p>
+              <p className="text-white hover:text-gray-300 cursor-pointer">IIT ISM Rd,</p>
+              <p className="text-white hover:text-gray-300 cursor-pointer">IIT (ISM, Sardar Patel Nagar</p>
+              <p className="text-white hover:text-gray-300 cursor-pointer">Kalyanpur, Dhanbad</p>
+              <p className="text-white hover:text-gray-300 cursor-pointer">sese@iitism.ac.in</p>
+              <h4 className="text-white hover:text-gray-300 cursor-pointer">+91 1234567890</h4>
             </div>
 
           </AnimatedElement>

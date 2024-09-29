@@ -7,9 +7,9 @@ export default function page() {
 
       <div className="text-center">
         <h1 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-300 md:text-4xl">
-        Society of Environmental Science and Engineers moodle portal
+        Society of Environmental Science and Engineers 
         </h1>
-        <Link href={'http://182.74.215.198/moodle/'} className='hover:scale-110 hover:underline'>click here</Link>
+        <Link href={'https://iitism.irins.org/profile/97522'} className='hover:scale-110 hover:underline'>click here</Link>
 
       </div>
     </div>
