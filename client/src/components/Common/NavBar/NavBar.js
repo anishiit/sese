@@ -19,9 +19,9 @@ export default function Navbar() {
 
             {/* college name and logo  */}
             <Link href="/" className="flex items-center space-x-3">
-              <img src="/collegelogo.png" className="h-6 md:h-8 lg:h-10" alt="AOT Logo" />
+              <img src="/collegelogo.png" className="h-6 md:h-8 lg:h-10" alt="SESE Logo" />
               <AnimatedElement className="font-bold  font-serif text-xs sm:text-lg text-blue-900 ">
-                ACADEMY OF TECHNOLOGY
+              Society of Environmental Science and Engineers
                 <div className="text-[8px] sm:text-xs text-right ">
                   ....translate your vision into reality
                 </div>

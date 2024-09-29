@@ -10,12 +10,12 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_BASEURL),
-  title: 'Academy of Technology',
-  description: 'Academy of Technology',
+  title: 'Society of Environmental Science and Engineers',
+  description: 'Society of Environmental Science and Engineers',
   generator: 'Next.js',
-  applicationName: 'Academy of Technology',
+  applicationName: 'Society of Environmental Science and Engineers',
   referrer: 'origin-when-cross-origin',
-  keywords: ['Academy of Technology', 'soumojit', 'shome', 'soumojitshome', 'Next.js', 'React'],
+  keywords: ['Society of Environmental Science and Engineers', 'soumojit', 'shome', 'soumojitshome', 'Next.js', 'React'],
 
   authors: [{ name: 'Soumojit Shome' }, { name: 'Soumojit Shome', url: 'https://soumojitshome.vercel.app' }],
   creator: 'Soumojit Shome',
@@ -32,10 +32,10 @@ export const metadata = {
   },
 
   openGraph: {
-    title: 'Academy of Technology',
-    description: 'Academy of Technology',
+    title: 'Society of Environmental Science and Engineers',
+    description: 'Society of Environmental Science and Engineers',
     url: '/logo.jpeg',
-    siteName: 'Academy of Technology',
+    siteName: 'Society of Environmental Science and Engineers',
     images: [
       {
         url: '/logo.jpeg', // Must be an absolute URL
@@ -46,7 +46,7 @@ export const metadata = {
         url: '/logo.jpeg', // Must be an absolute URL
         width: 1800,
         height: 1600,
-        alt: 'Academy of Technology',
+        alt: 'Society of Environmental Science and Engineers',
       },
     ],
     locale: 'en_US',

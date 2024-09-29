@@ -71,7 +71,7 @@ export default function Footer() {
               <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Admission Enquiry</h2>
               <nav className="list-none mb-10">
                 <li>
-                  <a target='_blank' href='/DocFiles/Documents for Admission AOT.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Documents for Admission</a>
+                  <a target='_blank' href='/DocFiles/Documents for Admission SESE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Documents for Admission</a>
                 </li>
                 <li>
                   <Link href='/contact' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Contact Us</Link>
@@ -80,15 +80,15 @@ export default function Footer() {
               </nav>
             </div>
 
-            {/* AOT Online */}
+            {/* SESE Online */}
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">AOT Online</h2>
+              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">SESE Online</h2>
               <nav className="list-none mb-10">
                 <li>
                   <a target='_blank' href='https://www.linkedin.com/school/academy-of-technology/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; LinkedIn</a>
                 </li>
                 <li>
-                  <a target='_blank' href='https://www.instagram.com/aotconnect/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Instagram</a>
+                  <a target='_blank' href='https://www.instagram.com/SESEconnect/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Instagram</a>
                 </li>
                 <li>
                   <a target='_blank' href='https://www.youtube.com/channel/UC1lroAhlIz6Reni_I2dpaHA' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; YouTube</a>
@@ -97,7 +97,7 @@ export default function Footer() {
                   <a target='_blank' href='http://182.74.215.198/moodle/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Moodle Portal Login</a>
                 </li>
                 <li>
-                  <a target='_blank' href='https://gic.aot.edu.in/index.html' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Google Innovation Centre</a>
+                  <a target='_blank' href='https://gic.SESE.edu.in/index.html' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Google Innovation Centre</a>
                 </li>
 
               </nav>
@@ -110,7 +110,7 @@ export default function Footer() {
               <p className="text-white hover:text-gray-300 cursor-pointer">Adisaptagram,</p>
               <p className="text-white hover:text-gray-300 cursor-pointer">Adecconagar , Bandel</p>
               <p className="text-white hover:text-gray-300 cursor-pointer">Hoogly , 721212</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">academy.of.technology@aot.edu.in</p>
+              <p className="text-white hover:text-gray-300 cursor-pointer">academy.of.technology@SESE.edu.in</p>
               <h4 className="text-white hover:text-gray-300 cursor-pointer">+91 9883464589</h4>
             </div>
 
@@ -120,8 +120,8 @@ export default function Footer() {
         <div>
           <div>
             <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
-              <p className="text-gray-300 text-sm text-center sm:text-left">© 2024 AOT —
-                <a rel="noopener noreferrer" className="text-gray-300 ml-1" target="_blank">@aot</a>
+              <p className="text-gray-300 text-sm text-center sm:text-left">© 2024 SESE —
+                <a rel="noopener noreferrer" className="text-gray-300 ml-1" target="_blank">@SESE</a>
               </p>
               <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
                 <a className="text-gray-300" href='https://m.facebook.com/profile.php?id=100067475193505&name=xhp_nt_' target='_blank'>
@@ -134,7 +134,7 @@ export default function Footer() {
                     <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
                   </svg>
                 </a>
-                <a className="ml-3 text-gray-300" href='https://www.instagram.com/aotconnect/' target='_blank'>
+                <a className="ml-3 text-gray-300" href='https://www.instagram.com/SESEconnect/' target='_blank'>
                   <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                     <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
                     <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>

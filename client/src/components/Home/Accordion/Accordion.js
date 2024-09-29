@@ -29,7 +29,7 @@ export default function Accordion() {
         },
         {
             "title": "How can the fees be paid?",
-            "description": "The fees can be paid by cash or demand draft in favour of 'ACADEMY OF TECHNOLOGY,' payable at Kolkata."
+            "description": "The fees can be paid by cash or demand draft in favour of 'Society of Environmental Science and Engineers,' payable at Kolkata."
         },
         {
             "title": "Are the tuition fees subject to change?",
