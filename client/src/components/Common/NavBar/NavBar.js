@@ -23,7 +23,7 @@ export default function Navbar() {
               <AnimatedElement className="font-bold  font-serif text-xs sm:text-lg text-blue-900 ">
               Society of Environmental Science and Engineers
                 <div className="text-[8px] sm:text-xs text-right ">
-                  ....translate your vision into reality
+                  ...Shaping a Sustainable Future
                 </div>
               </AnimatedElement>
             </Link>
