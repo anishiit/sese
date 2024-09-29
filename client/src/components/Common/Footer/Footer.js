@@ -19,7 +19,7 @@ export default function Footer() {
           {/* Departments */}
           <AnimatedElement className=" flex-grow flex flex-wrap mb-10 text-left order-first">
             <div className="lg:w-2/5 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Departments</h2>
+              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Labs</h2>
               <nav className="list-none mb-10">
                 <li>
                   <Link href="/academics/departments/ece" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Electronics & Communication</Link>
