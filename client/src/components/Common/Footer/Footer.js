@@ -52,7 +52,7 @@ export default function Footer() {
               
               </nav>
             </div>
-            {/* Admission Enquiry */}
+            {/* Admission Enquiry
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
               <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Admission Enquiry</h2>
               <nav className="list-none mb-10">
@@ -64,7 +64,7 @@ export default function Footer() {
                 </li>
 
               </nav>
-            </div>
+            </div> */}
 
             {/* SESE Online */}
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
@@ -74,10 +74,10 @@ export default function Footer() {
                   <a target='_blank' href='https://www.linkedin.com/in/society-of-environmental-science-and-engineering-iit-ism-dhanbad-b894162bb/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; LinkedIn</a>
                 </li>
                 <li>
-                  <a target='_blank' href='https://www.instagram.com/SESEconnect/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Instagram</a>
+                  <a target='_blank' href='https://www.instagram.com/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Instagram</a>
                 </li>
                 <li>
-                  <a target='_blank' href='https://www.youtube.com/channel/UC1lroAhlIz6Reni_I2dpaHA' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; YouTube</a>
+                  <a target='_blank' href='https://www.youtube.com/channel/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; YouTube</a>
                 </li>
                 <li>
                   <a target='_blank' href='https://iitism.irins.org/profile/97522' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Professors</a>
