@@ -8,40 +8,40 @@ import AnimatedElement from '@/components/Common/Animation/AnimatedElement';
 export default function Accordion() {
     const AccordionData = [
         {
-            "title": "What is the total fee payable at the time of admission for regular students?",
-            "description": "The total fee payable at the time of admission for regular students is ₹1,05,200."
+            "title": "What is the Society of Environmental Science and Engineering (SESE)?",
+            "description": "SESE is a student-led organization at IIT (ISM) Dhanbad, focused on tackling environmental challenges through the application of science, engineering, and innovation. It serves as a platform for students, researchers, and professionals to collaborate on environmental projects and initiatives."
         },
         {
-            "title": "What is the total fee payable at the time of admission for students allotted through TFW (Tuition Fee Waiver) scheme?",
-            "description": "The total fee payable at the time of admission for students allotted through TFW is ₹53,200."
+            "title": "What is the main mission of SESE?",
+            "description": "SESE's mission is to cultivate a community of passionate students, alumni, professors, and industry experts who work together to explore and address pressing environmental challenges. The society promotes education, innovation, and leadership in environmental science and engineering."
         },
         {
-            "title": "How much is the tuition fee per semester?",
+            "title": "Who can join SESE?",
             "description": "The tuition fee per semester is ₹52,000."
         },
         {
-            "title": "Are there any additional fees that might be charged by the University (MAKAUT)?",
-            "description": "Yes, there are additional fees charged by the University, which include:  1) University Development Fees @ ₹550 per year (one-time payment of ₹2,200) 2) University Registration Fees @ ₹500 (one-time payment)"
+            "title": "What kinds of projects does SESE work on?",
+            "description": "SESE works on a wide range of environmental projects, including renewable energy solutions, waste management, sustainable design, climate change research, and biodiversity conservation. These projects often involve hands-on experience and interdisciplinary collaboration."
         },
         {
-            "title": "Is the caution deposit refundable?",
-            "description": "Yes, the caution deposit of ₹10,000 is refundable."
+            "title": "How can students get involved in SESE activities?",
+            "description": "Students can participate in SESE by attending our events, workshops, seminars, and joining various project teams. SESE also holds annual membership drives and encourages new members to contribute their ideas and skills."
         },
         {
-            "title": "How can the fees be paid?",
-            "description": "The fees can be paid by cash or demand draft in favour of 'Society of Environmental Science and Engineers,' payable at Kolkata."
+            "title": "Does SESE collaborate with industries or other organizations?",
+            "description": "Yes, SESE actively collaborates with industries, government agencies, and NGOs to bring real-world experience and resources to its projects. These partnerships provide students with valuable opportunities for internships, research, and career development."
         },
         {
-            "title": "Are the tuition fees subject to change?",
-            "description": "Yes, the tuition fees may be revised based on directives from the West Bengal Government."
+            "title": "What is the vision of SESE for the future?",
+            "description": "SESE envisions becoming a leading force in environmental innovation by driving advancements in renewable energy, sustainable practices, environmental policy, and technology. Our long-term goal is to create lasting impacts on global environmental issues and to inspire future generations of environmental engineers and scientists."
         },
         {
-            "title": "What is the Vidyarthi Mediclaim, and how much does it cost?",
-            "description": "Vidyarthi Mediclaim is a medical insurance for students, and it costs ₹2,500 (one-time payment)."
+            "title": "What events and activities does SESE organize throughout the year?",
+            "description": "SESE organizes a variety of events, including environmental awareness campaigns, technical workshops, hackathons, guest lectures by industry experts, field trips, and competitions related to environmental engineering and sustainability."
         },
         {
-            "title": " What are the fees for library services?",
-            "description": "The library fees, which cover the Book Bank, Journals, and Digital Library, amount to ₹6,000 (one-time payment)."
+            "title": " What impact has SESE made so far?",
+            "description": "Since its inception, SESE has successfully completed numerous environmental projects, ranging from campus sustainability initiatives to research publications in the fields of renewable energy and waste management. SESE has also inspired many students to pursue careers in environmental science and engineering, while actively raising awareness about the importance of sustainable practices."
         }
     ]
 
