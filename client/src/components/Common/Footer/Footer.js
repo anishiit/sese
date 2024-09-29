@@ -85,7 +85,7 @@ export default function Footer() {
               <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">SESE Online</h2>
               <nav className="list-none mb-10">
                 <li>
-                  <a target='_blank' href='https://www.linkedin.com/school/academy-of-technology/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; LinkedIn</a>
+                  <a target='_blank' href='https://www.linkedin.com/in/society-of-environmental-science-and-engineering-iit-ism-dhanbad-b894162bb/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; LinkedIn</a>
                 </li>
                 <li>
                   <a target='_blank' href='https://www.instagram.com/SESEconnect/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Instagram</a>

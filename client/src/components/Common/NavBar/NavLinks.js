@@ -41,8 +41,8 @@ function NavLinks() {
           path: "/academics/resources/library",
         },
         {
-          title: "moodle",
-          path: "/academics/resources/moodle",
+          title: "Professors",
+          path: "https://iitism.irins.org/profile/97522",
         },
       ]
     },
