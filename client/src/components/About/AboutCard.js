@@ -19,7 +19,7 @@ export default function AboutCard() {
                             {/* <h1 className="title-font lg:text-3xl text-2xl mb-4 font-bold text-gray-900">
                                 “Aspires to be a pre-eminent deemed university of national standing in education and innovation”.
                             </h1> */}
-                            <p className="mb-8 leading-relaxed font-medium text-sm sm:text-lg p-2">Established in 2003, Society of Environmental Science and Engineers is one of the most acclaimed self-financed engineering colleges in West Bengal. It has been established by Ananda Educational Development & Charitable Organisation (AEDCO), <span className='font-bold'> a trust known for its deep sense of social commitment and dedicated to the promotion of education by inculcating appropriate ethics and attitude.</span></p>
+                            <p className="mb-8 leading-relaxed font-medium text-sm sm:text-lg p-2">The Society of Environmental Science and Engineering (SESE) at IIT (ISM), Dhanbad, is a thriving, student-driven organization focused on addressing some of the most pressing environmental challenges of our time. Through the fusion of science, engineering, and innovation, SESE aims to create a platform that encourages learning, collaboration, and the development of practical solutions to protect and sustain the environment. SESE engages students, researchers, and professionals in diverse fields to actively contribute to ongoing environmental projects, fostering an interdisciplinary approach to problem-solving. </p>
                         </div>
                     </div>
                 </section>
@@ -35,7 +35,7 @@ export default function AboutCard() {
                         <div className="md:w-1/2 md:pr-8 flex flex-col md:items-start md:text-left items-center">
                             {/* <h1 className="title-font lg:text-3xl text-2xl mb-4 font-bold text-gray-900">“Aspires to be a pre-eminent deemed university of national standing in education and innovation”.
                             </h1> */}
-                            <p className="mb-8 leading-relaxed font-medium text-sm sm:text-lg p-2">In a metamorphosis of over 18 years, Society of Environmental Science and Engineers has been reinventing itself constantly to explore the infinite possibilities of engineering and technology – an academy that inspires everyone to think differently. It is now the preferred career destination for meritorious students due to its academic integrity and standard as well as its attractive campus placement.</p>
+                            <p className="mb-8 leading-relaxed font-medium text-sm sm:text-lg p-2">Our mission is to cultivate a dynamic and inclusive community composed of passionate students, dedicated alumni, esteemed professors, and industry experts. This vibrant network at IIT (ISM) Dhanbad is united by a shared goal: to explore and resolve environmental challenges in a way that leverages cutting-edge technology and groundbreaking research. We seek to empower the next generation of environmental leaders by providing them with opportunities to engage in hands-on projects, share innovative ideas, and make meaningful contributions to the field of environmental science and engineering.</p>
                         </div>
                     </div>
                 </section>
