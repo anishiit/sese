@@ -1,8 +1,3 @@
-
-
-Here’s a comprehensive `README.md` file for your SESE website project:
-
-```markdown
 # SESE Website
 
 Welcome to the official website of the **Society of Environmental Science & Engineering (SESE)** at IIT Dhanbad. This website serves as the digital platform for SESE, providing insights into the society's activities, members, and events while promoting active engagement with students and professionals in the environmental science community.
@@ -61,7 +56,8 @@ This website showcases:
    ```bash
    git clone https://github.com/anishiit/SESE-website.git
    cd SESE-website
-   ```
+
+
 
 2. **Install dependencies**:
    ```bash
